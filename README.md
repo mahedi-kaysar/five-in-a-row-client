@@ -20,6 +20,8 @@ java -jar target/five-in-a-row-client-0.0.1-SNAPSHOT.jar
 * However, server handles the invalid input and send appropriate error response.
 * Please follow the readme of https://github.com/mahedi-kaysar/five-in-a-row-server for details of the endpoints.
 
+## Sample output
+![Alt text](docs/sampleOutput.JPG?raw=true "Title")
 ## Future work
 * Test 
 * Error response handling
